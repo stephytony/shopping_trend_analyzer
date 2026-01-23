@@ -43,6 +43,7 @@ This helps in identifying who prefers PayPal, when, and why, and businesses can 
 
     - Seasonal trends reveal that Winter accounts for the largest number of PayPal transactions, followed by Spring. 
     ![Season Trend](./images/season_heatmap.png)
+    https://github.com/stephytony/shopping_trend_analyzer/blob/main/images/age_density_histogram.png
 
 ## Conclusion : 
 
