@@ -38,11 +38,22 @@ This helps in identifying who prefers PayPal, when, and why, and businesses can 
 
 ## Results Explained :
 
-    - Age Density of customers using Paypal vs non paypal platforms. This density plot suggests majority of customers are between 50-60
-    <img src="images/age_density_histogram.png" width="600"/>
+Age Density of customers using Paypal vs non paypal platforms. This density plot suggests majority of customers are between 50-60
 
-    - Seasonal trends reveal that Winter accounts for the largest number of PayPal transactions, followed by Spring. 
-    ![Season Trend](images/season_heatmap.png)
+![Histogram of Age Density!](./images/age_density_histogram.png)
+
+
+Seasonal trends reveal that Winter accounts for the largest number of PayPal transactions, followed by Spring. 
+
+![Season Trend!](./images/season_heatmap.png)
+
+Payment method preference varies by shipping type, with PayPal favored for Express and other methods for Standard shipping
+
+![Payment Method Preference for Shiiping Type!](./images/shippinggroup_heatmap.png)
+
+Analysis indicates that PayPal users tend to make purchases more frequently compared to customers using other payment methods
+
+![Purchase Frequency!](./images/frequency_heatmap.png)
 
 ## Conclusion : 
 
