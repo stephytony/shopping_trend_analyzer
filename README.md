@@ -40,24 +40,20 @@ This helps in identifying who prefers PayPal, when, and why, and businesses can 
 
 The first thing that was apparent from the provided data was that it was not clean, it had missing values and some of the values were not realistic for used cars, for example, odometer with zero and single digit values; price with zero and single digits values.
 
-![Box Plot of Price of vehicles vs Condition!](./images/color.png)
+![Box Plot of Price of vehicles vs Condition!](./images/season_heatmap.png)
 
 As you can see from the Diagram above, there are car prices with zero value for all conditions.
 
 ## Results Explained :
 
-    Age Density of customers using Paypal vs non paypal platforms. This density plot suggests majority of customers are between 50-60
-    ![XX](/images/season_heatmap.png)
+Age Density of customers using Paypal vs non paypal platforms. This density plot suggests majority of customers are between 50-60
 
-    ![Box Plot of Price of vehicles vs Condition!](./images/season_heatmap.png)
-
-    - <img src="https://github.com/stephytony/shopping_trend_analyzer/blob/main/images/age_density_histogram.png" width="600"/>
+![Histogram of Age Density!](./images/age_density_histogram.png)
 
 
-    - Seasonal trends reveal that Winter accounts for the largest number of PayPal transactions, followed by Spring. 
-    ![Season Trend](./images/season_heatmap.png)
-    
-    ![Age Distribution](https://github.com/stephytony/shopping_trend_analyzer/blob/main/images/age_density_histogram.png)
+Seasonal trends reveal that Winter accounts for the largest number of PayPal transactions, followed by Spring. 
+
+![Season Trend!](./images/season_heatmap.png)
 
 
 ## Conclusion : 
