@@ -41,6 +41,9 @@ This helps in identifying who prefers PayPal, when, and why, and businesses can 
     - Age Density of customers using Paypal vs non paypal platforms. This density plot suggests majority of customers are between 50-60
     ![XX](/images/season_heatmap.png)
 
+    - <img src="https://github.com/stephytony/shopping_trend_analyzer/blob/main/images/age_density_histogram.png" width="600"/>
+
+
     - Seasonal trends reveal that Winter accounts for the largest number of PayPal transactions, followed by Spring. 
     ![Season Trend](./images/season_heatmap.png)
     
